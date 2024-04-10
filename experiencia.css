@@ -37,6 +37,16 @@ ul{
 }li{
     padding-top:10px;
 }
+nav{
+    
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 23px;
+    list-style: none;
+    text-align: center;
+    padding:0px ;
+}nav li{
+    padding-top:10px;
+}
 a:hover{
     color: rgb(255, 255, 255);
 
